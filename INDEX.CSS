@@ -1,0 +1,32 @@
+body{
+    background-image: url(assets/don-man.jpg);
+}
+
+h2{
+    text-align: center;
+    padding-left: 20px;
+    margin-top: 50px;
+}
+
+label{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    }
+input{
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    display: block;
+}
+.sub_container{
+    align-items: center;
+    align-content: center;
+    align-self: center;
+
+}
+
+
